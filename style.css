@@ -3,6 +3,7 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
 body {
   font-family: "Courier New", Courier, monospace;
 }
@@ -10,6 +11,7 @@ body {
 .center-page{
     padding: 0 30px;
 }
+
 header {
   background-color: blue;
   color: white;
