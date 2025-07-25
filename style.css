@@ -71,3 +71,8 @@ footer {
   padding: 20px;
   margin-top: 20px;
 }
+button:hover {
+  background-color: red;
+  color: white;
+}
+
